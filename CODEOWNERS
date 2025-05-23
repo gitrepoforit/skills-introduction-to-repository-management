@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @gitrepoforit
+/src/backend/database.py      @gitrepoforit
+/src/backend/routers/auth.py  @gitrepoforit
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @gitrepoforit
